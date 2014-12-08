@@ -1,0 +1,14 @@
+*.*~
+*~
+node_modules/
+bower_components/
+
+bin/
+bld/
+lib/
+
+# Visual Studio
+*.jsproj
+*.jsproj.user
+*.suo
+*.sln

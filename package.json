@@ -1,0 +1,25 @@
+{
+  "name": "kyukou-app",
+  "version": "0.1.0",
+  "homepage": "https://kyukou-kyudai.rhcloud.com/app",
+  "scripts": {
+    "build": "grunt build"
+  },
+  "description": "Alert information about cancellation of a lecture.",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower-task": "~0.4.0",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jade": "~0.13.0"
+  },
+  "keywords": [
+    "kyukou",
+    "app"
+  ],
+  "author": "Qdai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qdai/kyukou-app"
+  }
+}
