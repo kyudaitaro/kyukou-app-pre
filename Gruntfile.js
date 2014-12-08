@@ -9,7 +9,7 @@ module.exports = function (grunt) {
     bower: {
       install: {
         options: {
-          targetDir: 'lib',
+          targetDir: 'kyukou-app/scripts/lib',
           layout: 'byComponent',
           install: true,
           verbose: true,
@@ -31,7 +31,7 @@ module.exports = function (grunt) {
           }
         },
         files: {
-          "index.html": "views/index.jade"
+          "kyukou-app/index.html": "views/index.jade"
         }
       }
     }
